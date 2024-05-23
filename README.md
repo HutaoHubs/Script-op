@@ -1,3 +1,4 @@
+wait("0.2")
 -- YARHM by Yukari, version 1.8.14
 
 -- Instances:
