@@ -1,11 +1,11 @@
 wait("0.2")
 
--- YARHM by Yukari, version 1.8.14
+-- HUTAOHUBS by Yukari, version 1.8.14
 
 -- Instances:
 
 local Converted = {
-	["_YARHM"] = Instance.new("ScreenGui");
+	["_HUTAOHUBS"] = Instance.new("ScreenGui");
 	["_Open"] = Instance.new("TextButton");
 	["_UICorner"] = Instance.new("UICorner");
 	["_InitOpen"] = Instance.new("LocalScript");
@@ -146,7 +146,7 @@ Converted["_HubName"].Name = "HubName"
 Converted["_HubName"].Parent = Converted["_Menu"]
 
 Converted["_HubDesc"].Font = Enum.Font.GothamBold
-Converted["_HubDesc"].Text = "yet another random hub menu"
+Converted["_HubDesc"].Text = "Yet got another hutaohubs menu"
 Converted["_HubDesc"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_HubDesc"].TextSize = 14
 Converted["_HubDesc"].TextWrapped = true
@@ -218,7 +218,7 @@ Converted["_UIGradient1"].Rotation = -44
 Converted["_UIGradient1"].Parent = Converted["_UIStroke"]
 
 Converted["_HubCredits"].Font = Enum.Font.GothamBold
-Converted["_HubCredits"].Text = "made and open sourced by imperial"
+Converted["_HubCredits"].Text = "made and open sourced by Hutaohubs"
 Converted["_HubCredits"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_HubCredits"].TextScaled = true
 Converted["_HubCredits"].TextSize = 14
@@ -267,7 +267,7 @@ Converted["_Area"].Name = "Area"
 Converted["_Area"].Parent = Converted["_Menu"]
 
 Converted["_TextLabel"].Font = Enum.Font.GothamBold
-Converted["_TextLabel"].Text = "yet another random hub menu"
+Converted["_TextLabel"].Text = "Yet got hutaohubs menu"
 Converted["_TextLabel"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_TextLabel"].TextSize = 14
 Converted["_TextLabel"].AnchorPoint = Vector2.new(0.5, 0.5)
@@ -280,7 +280,7 @@ Converted["_TextLabel"].Size = UDim2.new(0, 200, 0, 50)
 Converted["_TextLabel"].Parent = Converted["_Area"]
 
 Converted["_TextLabel1"].Font = Enum.Font.GothamBold
-Converted["_TextLabel1"].Text = "YARHM"
+Converted["_TextLabel1"].Text = "HUTAOHUBS"
 Converted["_TextLabel1"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_TextLabel1"].TextScaled = true
 Converted["_TextLabel1"].TextSize = 14
