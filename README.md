@@ -5,7 +5,7 @@ wait("0.2")
 -- Instances:
 
 local Converted = {
-	["_HUTAOHUBS"] = Instance.new("ScreenGui");
+	["_YARHM"] = Instance.new("ScreenGui");
 	["_Open"] = Instance.new("TextButton");
 	["_UICorner"] = Instance.new("UICorner");
 	["_InitOpen"] = Instance.new("LocalScript");
